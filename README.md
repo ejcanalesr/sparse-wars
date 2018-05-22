@@ -3,12 +3,12 @@
 **Implementation of the spherical deconvolution (Sd) algorithms described here:**
 
 > **Sparse Wars: A Survey and Comparative Study of Spherical Deconvolution Algorithms for Diffusion MRI.**
-Erick Jorge Canales-Rodríguez, Jon Haitz Legarreta, Marco Pizzolato, Gaëtan Rensonnet, Gabriel Girard, Jonathan Rafael Patiño, Muhamed Barakovic, David Romascano, Yasser Alemán-Gomez, Joaquim Radua, Edith Pomarol-Clotet, Raymond Salvador, Jean-Philippe Thiran, Alessandro Daducci (Submitted to Neuroimage, 2018).
+Erick Jorge Canales-Rodríguez, Jon Haitz Legarreta, Marco Pizzolato, Gaëtan Rensonnet, Gabriel Girard, Jonathan Rafael Patiño, Muhamed Barakovic, David Romascano, Yasser Alemán-Gomez, Joaquim Radua, Edith Pomarol-Clotet, Raymond Salvador, Jean-Philippe Thiran, Alessandro Daducci (*Submitted to Neuroimage*, 2018).
 
 **Code implementation:**
 The current implementation is written in Matlab.
 
-**List of reconstruction methods currently included:**
+**List of reconstruction methods:**
 1. `Best-subset selection based on the extended Bayesian information criterion (EBIC)`
 2. `LASSO based on the EBIC`
 3. `Non-negative Cauchy deconvolution`
