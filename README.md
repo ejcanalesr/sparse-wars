@@ -1,6 +1,6 @@
-# sparse-wars
+# Sparse spherical deconvolution
 
-**Implementation of the spherical deconvolution (Sd) algorithms described here:**
+**Implementation of the algorithms described here:**
 
 > **Sparse Wars: A Survey and Comparative Study of Spherical Deconvolution Algorithms for Diffusion MRI.**
 Erick Jorge Canales-Rodríguez, Jon Haitz Legarreta, Marco Pizzolato, Gaëtan Rensonnet, Gabriel Girard, Jonathan Rafael Patiño, Muhamed Barakovic, David Romascano, Yasser Alemán-Gomez, Joaquim Radua, Edith Pomarol-Clotet, Raymond Salvador, Jean-Philippe Thiran, Alessandro Daducci (*Submitted to Neuroimage*, 2018).
