@@ -1,4 +1,4 @@
-# Sparse spherical deconvolution
+# Sparse spherical deconvolution Algorithms for Diffusion MRI
 
 **Implementation of the algorithms described here:**
 
