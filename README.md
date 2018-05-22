@@ -17,3 +17,8 @@ The current implementation is written in Matlab.
 6. `Sparse Bayesian Learning (SBL)`
 7. `Accelerated damped Richardson-Lucy deconvolution (AdRL-SD)`
 8. `Accelerated robust and unbiased model-based spherical deconvolution (ARUMBA-SD)`
+
+
+**Install dependencies:**
+- SparseLab Toolbox (https://sparselab.stanford.edu/)
+- SPArse Modeling Software (SPAMS: http://spams-devel.gforge.inria.fr/) 
